@@ -1,6 +1,6 @@
 # 💼 Responsive Brandnew-portfolio
 http://mikigode.live
-### 💼 Responsive Mini Portfolio
+### 💼 Responsive Brandnew Portfolio
 
 - Responsive brandnew portfolio website Using HTML CSS & JavaScript
 - Contains animations css.
